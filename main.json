@@ -1,0 +1,18 @@
+[
+  {
+    "name": "VeThor",
+    "symbol": "VTHO",
+    "decimals": 18,
+    "address": "0x0000000000000000000000000000456e65726779",
+    "desc": "Represents the underlying cost of using VeChainThor",
+    "icon": "3ac553ea77911248ab4519bca020e0aa2891a6c6.png"
+  },
+  {
+    "name": "Plair",
+    "symbol": "PLA",
+    "decimals": 18,
+    "address": "0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f",
+    "desc": "Plair is a decentralized gaming ecosystem disrupting the amateur gaming market",
+    "icon": "dfe7a792d85cfd1483b03228fd1d51a383a3c7b5.png"
+  }
+]
